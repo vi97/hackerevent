@@ -72,7 +72,6 @@ export default () => {
               </div>
             </div>
             <hr />
-            <h1>Hrello</h1>
           </div>
         ))}
       </section>
