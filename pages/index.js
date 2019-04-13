@@ -8,12 +8,6 @@ export default () => {
       eventName: 'meeting',
       location: 'VN',
       tag: 'coding'
-    },
-    {
-      data: '15/04/2019',
-      eventName: 'meeting',
-      location: 'VN',
-      tag: 'coding'
     }
   ]
   return (
